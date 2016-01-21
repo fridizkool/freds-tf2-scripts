@@ -1,0 +1,15 @@
+exec reload	// Reload configs
+
+// Binds
+bind "mouse4" "fred_uberfake"
+
+// Medic radar
+bind "mouse3" "fred_medradar"
+
+// No secondary
+bind "1" "slot1; r_drawviewmodel 1; viewmodel_fov 70; disable_autoheal"
+bind "2" "slot2; r_drawviewmodel 0; viewmodel_fov 70; enable_autoheal"
+bind "3" "slot3; r_drawviewmodel 1; viewmodel_fov 90; disable_autopheal"
+
+// Misc
+echo "<<<Medic on>>>"

@@ -1,4 +1,6 @@
 # freds-tf2-scripts
+For the love of god backup your config.cfg, this is experimental
+
 Extract into teamfortress2/tf/cfg
 
 Add "exec reload" (no quotes) to your autoexec.cfg
